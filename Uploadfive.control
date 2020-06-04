@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<ControlDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>0</Version>
+  <DataSourceAllowed>None</DataSourceAllowed>
+  <CustomDataSources />
+  <AutoGrowSupported>false</AutoGrowSupported>
+  <DefinitionDirectory>C:\Program Files (x86)\GeneXus\GeneXus15\UserControls\Uploadfive</DefinitionDirectory>
+  <IncludeInControlInfo>false</IncludeInControlInfo>
+  <IsEditable>false</IsEditable>
+  <SupportFiles />
+  <iOS_SupportFiles />
+  <Android_SupportFiles />
+  <BB_SupportFiles />
+  <RuntimeRender>UploadfiveRender.js</RuntimeRender>
+  <HeightPropertyName>Height</HeightPropertyName>
+  <WidthPropertyName>Width</WidthPropertyName>
+  <ResizeSupported>true</ResizeSupported>
+  <ObjClass>Uploadfive</ObjClass>
+  <Description>Uploadfive</Description>
+  <OldDescriptions />
+  <Id>00000000-0000-0000-0000-000000000000</Id>
+  <Name>Uploadfive</Name>
+  <Platforms />
+  <ShowMethod>show</ShowMethod>
+  <ReferencedFiles />
+  <iOS_ReferencedFiles />
+  <Android_ReferencedFiles />
+  <BB_ReferencedFiles />
+  <Constructor>
+    <Parameters />
+    <Name>Uploadfive</Name>
+  </Constructor>
+  <PropertiesDefinition>UploadfiveProperties.xml</PropertiesDefinition>
+  <DesignRender>UploadfiveRender.xsl</DesignRender>
+  <PlatformDefault>0</PlatformDefault>
+  <iOS_PlatformDefault>0</iOS_PlatformDefault>
+  <Android_PlatformDefault>0</Android_PlatformDefault>
+  <ControlType />
+    <Categories>
+    <Category>Knet App</Category>
+  </Categories>
+  <Events />
+  <Actions />
+  <IsPublic>true</IsPublic>
+  <Android_IsScrollable>false</Android_IsScrollable>
+</ControlDefinition>
